@@ -22,7 +22,7 @@ The top layer. It frames why AI matters to the business and sets the guiding pri
 
 ## 2. Architecture: AI-Orchestrated DevOps Pipeline
 
-The middle layer. It starts from a blunt current-state problem: most IT capacity goes to keeping the lights on, patching lags behind the threat curve, and operations are reactive rather than predictive. It then lays out an autonomous DevOps pipeline where an orchestrator coordinates specialized agents across environments, with human approval gates at every boundary and a crawl-walk-run adoption path. Business impact is framed against published industry benchmarks, presented as potential ranges rather than guarantees.
+The middle layer. It starts from a current-state problem: most IT capacity goes to keeping the lights on, patching lags behind the threat curve, and operations are reactive rather than predictive. It then lays out an autonomous DevOps pipeline where an orchestrator coordinates specialized agents across environments, with human approval gates at every boundary and a crawl-walk-run adoption path. Business impact is framed against published industry benchmarks, presented as potential ranges rather than guarantees.
 
 [Read the architecture (PDF)](2-AI-Orchestrated-DevOps-Architecture.pdf)
 
